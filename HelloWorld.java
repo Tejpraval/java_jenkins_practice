@@ -5,6 +5,7 @@ public class HelloWorld {
         System.out.println("Hello, Kya haal chall h jenkins Webhook Scm");
         System.out.println("Hello, Kya haal chall h jenkins Webhook Scm");
         System.out.println("Hello, Kya haal chall h jenkins Webhook Scm one more");
-         System.out.println("Testing poll scm in jenkins");
+         System.out.println("Testing poll scm in jenkins"); 
+        System.out.println("Testing git scm in jenkins by keeping github webhook"); 
     }
 }
